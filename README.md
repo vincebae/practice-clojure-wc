@@ -1,12 +1,13 @@
-
-## Write Your Own wc Tool
+## Write Your Own wc Tool (Clojure)
 Coding challenge from https://codingchallenges.fyi/challenges/challenge-wc
 
+#### Status
+
+Done.
 
 #### Requirements
 
-* clojure
-* babashka
+* [babashka](https://babashka.org/)
 
 #### Usage
 
